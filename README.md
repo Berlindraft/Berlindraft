@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zyron</h1>
-<h3 align="center">Keep learning to seize the day.</h3>
+<h3 align="center">Aspiring Software Engineer.</h3>
 <h3 align="center">20yo | Information Technology Student</h3>
 <h3 align="center">@Cebu Technological University-Main Campus</h3>
 
