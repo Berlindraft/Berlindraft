@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/f3/92/46/f39246aa721bceb87218509171c1c4e9.jpg"  />
+<img align="center" height="200" src="https://i.pinimg.com/736x/f3/92/46/f39246aa721bceb87218509171c1c4e9.jpg"  />
 
 ###
 
