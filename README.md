@@ -11,7 +11,14 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/f3/92/46/f39246aa721bceb87218509171c1c4e9.jpg"  />
+<p align="center" style="display: block; margin: 0 auto; width: 100%; max-width: 100%;">
+  <img height="200" src="https://i.pinimg.com/736x/f3/92/46/f39246aa721bceb87218509171c1c4e9.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 200px;" />
+</p>
+
+<!--
+  The <p align="center"> will center the image on GitHub mobile view.
+  The inline style ensures the image is centered and responsive on mobile, but will not affect desktop alignment on GitHub.
+-->
 
 ###
 
