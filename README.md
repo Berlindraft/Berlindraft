@@ -12,12 +12,12 @@
 <br clear="both">
 
 <p align="center">
-  <img height="200" width="200" src="https://i.pinimg.com/736x/f3/92/46/f39246aa721bceb87218509171c1c4e9.jpg" style="display: block; margin-left: auto; margin-right: auto;" />
+  <img src="ranim.gif" style="display: block; margin-left: auto; margin-right: auto;" />
 </p>
 
 <!--
   The <p align="center"> will center the image on GitHub mobile view.
-  The width and height attributes ensure the image is a 200x200 block.
+  The image uses its original dimensions and aspect ratio.
 -->
 
 ###
